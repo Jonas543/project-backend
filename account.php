@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Mijn account - BikeStore</title>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 
